@@ -1,0 +1,17 @@
+{
+  "name": "solanaweb3",
+  "version": "0.0.1",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "npx tsc && node --inspect build/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@solana/web3.js": "^1.95.3"
+  }
+}
