@@ -168,6 +168,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # Builds folders
-*build*
+build
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,node
