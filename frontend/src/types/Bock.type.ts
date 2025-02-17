@@ -1,0 +1,21 @@
+export type TypeBlock = {
+  number: 0,
+  hash: '',
+  parentHash: '',
+  nonce: '',
+  sha3Uncles: '',
+  logsBloom: '',
+  transactionsRoot: '',
+  stateRoot: '',
+  receiptsRoot: '',
+  miner: '',
+  difficulty: '',
+  totalDifficulty: '',
+  extraData: '',
+  size: 0,
+  gasLimit: 0,
+  gasUsed: 0,
+  timestamp: 0,
+  transactions: [],
+  uncles: []
+}
